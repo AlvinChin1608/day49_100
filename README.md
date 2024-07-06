@@ -17,6 +17,7 @@ Today, I worked on a project aimed at automating the job application process on 
 - __Practical Application of WebDriverWait:__ Implemented WebDriverWait to ensure elements were fully loaded and ready for interaction before attempting to interact with them, making the script more robust and reliable.
 
 Here is a sample demo:
+
 ![](https://github.com/AlvinChin1608/day49_100/blob/main/gif_demo/ScreenRecording2024-07-06at17.59.45-ezgif.com-censor.gif)
 
 ## Conclusion
