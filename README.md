@@ -11,9 +11,13 @@ Today, I worked on a project aimed at automating the job application process on 
 
 ## What I Learned
 - __Web Scraping with Selenium:__ I honed my skills in using Selenium for web scraping. This involved navigating a webpage, locating elements using various strategies (such as XPaths, CSS Selectors, and class names), and performing actions like clicking buttons.
+  
 - __Element Interaction:__ I learned to handle various types of web elements and interact with them programmatically. This included dealing with dynamic elements that require waiting for them to become interactable.
+  
 - __Error Handling in Automation:__ I incorporated error handling to manage scenarios where certain elements might not be present on the page, ensuring the script can handle such cases gracefully.
+  
 - __Using Environment Variables:__ For security purposes, I used environment variables to manage sensitive information like login credentials, keeping them out of the source code.
+  
 - __Practical Application of WebDriverWait:__ Implemented WebDriverWait to ensure elements were fully loaded and ready for interaction before attempting to interact with them, making the script more robust and reliable.
 
 Here is a sample demo:
