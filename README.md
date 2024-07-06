@@ -7,10 +7,10 @@ Additionally, I have chosen to include the beginner, intermediate and advanced i
 # Automating Job Post Savings with Selenium
 
 ## Project Overview
-Today, I worked on a project aimed at automating the job application process on LinkedIn using Selenium. The initial goal was to create a script that could automatically apply for jobs based on predefined criteria. However, I personally would not to apply blindly without reviewing each listing. Therefore, I adjusted the focus of this project to automate the task of saving job postings instead. This approach ensures that I don't inundate recruiters with irrelevant resumes while testing my project.
+Today, I worked on a project aimed at automating the job application process on LinkedIn using Selenium. The initial goal was to create a script that could automatically apply for jobs based on predefined criteria. However, I personally would not apply blindly without reviewing each listing. Therefore, I adjusted the focus of this project to automate the task of saving job postings instead. This approach ensures that I don't inundate recruiters with irrelevant resumes while testing my project.
 
 ## What I Learned
-- __Web Scraping with Selenium:__ I honed my skills in using Selenium for web scraping. This involved navigating a webpage, locating elements using various strategies (such as XPaths, CSS Selectors, and class names), and performing actions like clicking buttons.
+- __Web Scraping with Selenium:__ I reinforced my skills in using Selenium for web scraping. This involved navigating a webpage, locating elements using various strategies (such as XPaths, CSS Selectors, and class names), and performing actions like clicking buttons.
   
 - __Element Interaction:__ I learned to handle various types of web elements and interact with them programmatically. This included dealing with dynamic elements that require waiting for them to become interactable.
   
