@@ -24,5 +24,9 @@ Here is a sample demo:
 
 ![](https://github.com/AlvinChin1608/day49_100/blob/main/gif_demo/ScreenRecording2024-07-06at17.59.45-ezgif.com-censor.gif)
 
+## Notes
+- This project is for educational purposes and should be used responsibly.
+- Please respect LinkedIn's latest usage guidelines to avoid account limitations. https://www.linkedin.com/robots.txt
+
 ## Conclusion
 This project provided valuable insights into the process of web automation using Selenium. While the initial objective was to automate job applications, the current implementation focuses on saving job postings, which I find more practical and useful for my needs. This experience has furthered my understanding of automation and its applications in real-world scenarios.
